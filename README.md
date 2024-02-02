@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com o objetivo de otimizar o tamanho da bancada de
 * Madeira 20mm de espessura
 * Madeira 6mm de espessura
 
-#### Especificações das ferramentas utilizadas
+### Especificações das ferramentas utilizadas
 | Uso | Fresa para furos e cavidades | Fresa para recorte das peças |
 | ---- | ---- | ---- |
 | Espessura | 3.175 mm | 6 mm |
