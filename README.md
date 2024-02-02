@@ -33,6 +33,7 @@ Além disso, um suporte de ferramentas customizado foi desenvolvido para substit
 * Madeira 20mm de espessura
 * Madeira 6mm de espessura
 * MDF 3mm de espessura
+* Acrílico 3 mm
 
 ### Especificações das ferramentas utilizadas
 | Uso | Fresa para furos e cavidades | Fresa para recorte das peças |
